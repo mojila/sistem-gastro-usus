@@ -1,0 +1,29 @@
+{
+  "name": "sistem-gastro-usus",
+  "version": "0.0.1",
+  "description": "Sistem Pakar untuk gastro usus",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojila/sistem-gastro-usus.git"
+  },
+  "keywords": [
+    "sistem",
+    "pakar",
+    "sistem",
+    "gastro",
+    "usus"
+  ],
+  "author": "Mojila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojila/sistem-gastro-usus/issues"
+  },
+  "homepage": "https://github.com/mojila/sistem-gastro-usus#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.4"
+  }
+}
